@@ -1,9 +1,9 @@
-package sample;
+package helloWorldFx;
 
 import javafx.event.ActionEvent;
 import javafx.scene.control.Label;
 
-public class SampleController
+public class HelloWorldController
 {
     public Label helloWorld;
 
